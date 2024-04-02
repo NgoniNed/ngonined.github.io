@@ -1,0 +1,7 @@
+/home/renee/Projects/ngonined/bin/Release/net6.0/publish/ngonined
+/home/renee/Projects/ngonined/bin/Release/net6.0/publish/appsettings.Development.json
+/home/renee/Projects/ngonined/bin/Release/net6.0/publish/appsettings.json
+/home/renee/Projects/ngonined/bin/Release/net6.0/publish/ngonined.dll
+/home/renee/Projects/ngonined/bin/Release/net6.0/publish/ngonined.deps.json
+/home/renee/Projects/ngonined/bin/Release/net6.0/publish/ngonined.runtimeconfig.json
+/home/renee/Projects/ngonined/bin/Release/net6.0/publish/ngonined.pdb

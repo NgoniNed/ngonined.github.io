@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "66ENoA3FURRGmAqGf1igAXLul5WVxFOA8vtu0g2a+GBNunpScJ1/iZDVmhfNKL30rkImIr7h/wPv4u7wEr0DsA==",
+  "dgSpecHash": "jHuCakntlXcse2JJtq1qzM1ARKl71c+c9uLV0+KdDo/Y3sXY1JnklGyh2Hv2u4lLkk3AVGVOk9E1CXqXKp3wtw==",
   "success": true,
   "projectFilePath": "/home/renee/Projects/ngonined/ngonined.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/renee/.nuget/packages/microsoft.aspnetcore.components.webassembly.devserver/6.0.18/microsoft.aspnetcore.components.webassembly.devserver.6.0.18.nupkg.sha512"
+  ],
   "logs": []
 }
